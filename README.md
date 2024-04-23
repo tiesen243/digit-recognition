@@ -4,6 +4,21 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 
 ![MNIST](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
+## Requirements
+
+- Python 3.9.12
+- Anaconda or Miniconda
+
+## TODO
+
+- [x] Load the dataset
+- [x] Preprocess the data
+- [ ] Convolution Operation
+- [ ] `Convolutional` Layer
+- [ ] `Pooling` Layer
+- [ ] `Binary Cross Entropy` Loss
+- [X] Activation Function
+
 ## Installation
 
 ```bash
