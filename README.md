@@ -9,20 +9,10 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 - Python 3.9.12
 - Anaconda or Miniconda
 
-## TODO
-
-- [x] Load the dataset
-- [x] Preprocess the data
-- [ ] Convolution Operation
-- [ ] `Convolutional` Layer
-- [ ] `Pooling` Layer
-- [ ] `Binary Cross Entropy` Loss
-- [X] Activation Function
-
 ## Installation
 
 ```bash
-conda create --name digit-recognition--file requirements.txt
+conda env create -f requirements.yml
 ```
 
 ## Usage
