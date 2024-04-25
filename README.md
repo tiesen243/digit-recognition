@@ -6,7 +6,6 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 
 ## Requirements
 
-- Python 3.9.12
 - Anaconda or Miniconda
 
 ## Installation
