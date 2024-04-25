@@ -8,6 +8,13 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 
 - Anaconda or Miniconda
 
+## Tech Stack
+
+- Python
+- Numpy for linear algebra
+- Matplotlib for Visualization
+- Keras for Datasets 
+
 ## Installation
 
 ```bash
