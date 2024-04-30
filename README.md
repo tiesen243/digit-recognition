@@ -18,7 +18,10 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 ## Installation
 
 ```bash
+git clone git@github.com:tiesen243/digit-recognition.git
+cd digit-recognition
 conda env create -f requirements.yml
+conda activate digit-recognition
 ```
 
 ## Usage
@@ -28,3 +31,12 @@ open the jupyter notebook and run the cells
 ```bash
 jupyter notebook
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## References
+
+- [Keras Datasets](https://keras.io/api/datasets/mnist/)
+- [Oddly Satisfying Deep Learning](https://pythonandml.github.io/dlbook/content/convolutional_neural_networks/cnn_over_mlp.html)
