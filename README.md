@@ -13,14 +13,14 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 - Python
 - Numpy for linear algebra
 - Matplotlib for Visualization
-- Keras for Datasets 
+- Keras for Datasets
 
 ## Installation
 
 ```bash
 git clone git@github.com:tiesen243/digit-recognition.git
 cd digit-recognition
-conda env create -f requirements.yml
+conda env create -f environment.yml
 conda activate digit-recognition
 ```
 
